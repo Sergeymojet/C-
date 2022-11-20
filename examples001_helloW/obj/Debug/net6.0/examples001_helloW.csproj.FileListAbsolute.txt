@@ -1,0 +1,15 @@
+C:\Users\Кампуктер\Desktop\C#\examples001_helloW\bin\Debug\net6.0\examples001_helloW.exe
+C:\Users\Кампуктер\Desktop\C#\examples001_helloW\bin\Debug\net6.0\examples001_helloW.deps.json
+C:\Users\Кампуктер\Desktop\C#\examples001_helloW\bin\Debug\net6.0\examples001_helloW.runtimeconfig.json
+C:\Users\Кампуктер\Desktop\C#\examples001_helloW\bin\Debug\net6.0\examples001_helloW.dll
+C:\Users\Кампуктер\Desktop\C#\examples001_helloW\bin\Debug\net6.0\examples001_helloW.pdb
+C:\Users\Кампуктер\Desktop\C#\examples001_helloW\obj\Debug\net6.0\examples001_helloW.csproj.AssemblyReference.cache
+C:\Users\Кампуктер\Desktop\C#\examples001_helloW\obj\Debug\net6.0\examples001_helloW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кампуктер\Desktop\C#\examples001_helloW\obj\Debug\net6.0\examples001_helloW.AssemblyInfoInputs.cache
+C:\Users\Кампуктер\Desktop\C#\examples001_helloW\obj\Debug\net6.0\examples001_helloW.AssemblyInfo.cs
+C:\Users\Кампуктер\Desktop\C#\examples001_helloW\obj\Debug\net6.0\examples001_helloW.csproj.CoreCompileInputs.cache
+C:\Users\Кампуктер\Desktop\C#\examples001_helloW\obj\Debug\net6.0\examples001_helloW.dll
+C:\Users\Кампуктер\Desktop\C#\examples001_helloW\obj\Debug\net6.0\refint\examples001_helloW.dll
+C:\Users\Кампуктер\Desktop\C#\examples001_helloW\obj\Debug\net6.0\examples001_helloW.pdb
+C:\Users\Кампуктер\Desktop\C#\examples001_helloW\obj\Debug\net6.0\examples001_helloW.genruntimeconfig.cache
+C:\Users\Кампуктер\Desktop\C#\examples001_helloW\obj\Debug\net6.0\ref\examples001_helloW.dll
